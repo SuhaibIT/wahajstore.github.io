@@ -1,2 +1,2 @@
-# wahajstore.github.io
+# wahajstore
 wahajstore
